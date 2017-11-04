@@ -1,7 +1,7 @@
 # java-counter
 Simple Counter class in Java utilizing method cascading
 
-#Description
+# Description  
 This simple class is designed to fulfill the need to have a
 map filled with counters as values.
 I modeled the interface after [AtomicInteger](https://goo.gl/JMdEsZ),
@@ -9,7 +9,7 @@ so as to be familiar to users of that class.
 I wanted a class with method cascading so that returning the value
 itself or a String representation would be easy.
 
-#Usage
+# Usage  
 
 ```
 new SimpleCounter()       -> 0  
